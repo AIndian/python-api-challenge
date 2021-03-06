@@ -129,6 +129,9 @@ dmypy.json
 .pyre/
 
 #API pulls
+config.py
+config
 api_keys.py
+api_keys
 __pycache__
 .ipynb_checkpoints
